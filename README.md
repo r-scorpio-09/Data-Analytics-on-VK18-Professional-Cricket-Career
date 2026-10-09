@@ -15,4 +15,4 @@ This repository contains a Python-based Exploratory Data Analysis (EDA) on the c
 * **Matplotlib** (Data Visualization)
 
 ## How to View
-Since the data arrays are built directly into the code, no external datasets are required. Simply click on the `Virat_Kohli.ipynb` file in the repository to view the Jupyter Notebook directly in your browser with all the charts and code output rendered.
+Since the data arrays are built directly into the code, no external datasets are required. Simply click on the `VK18.ipynb` file in the repository to view the Jupyter Notebook directly in your browser with all the charts and code output rendered.
